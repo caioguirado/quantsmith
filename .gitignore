@@ -161,3 +161,6 @@ cython_debug/
 
 # All .csv files inside /data
 /data/*.csv
+
+*.parquet
+*.pickle
